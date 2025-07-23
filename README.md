@@ -1,4 +1,4 @@
-![Colorful Pastel Modern Personal LinkedIn Banner](https://github.com/Vaishnavi639/Vaishnavi639/assets/127540530/0be0d6ef-ef89-4545-ac90-3041127d5bfc)
+
 <h1 align="center">Hi 👋, I'm Om Harsule here</h1>
 <h3 align="center">Software Developer with profiency in DevOps & Cloud Technology| Cloud[AWS | Azure] | Docker | Kubernetes | Terraform | CI/CD | PHP </h3>
 
